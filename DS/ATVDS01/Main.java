@@ -23,7 +23,7 @@ public class Main {
                     System.out.println("1-Criar um produto: \n" +
                             "---------------------\n" +
                             "1 - Criar um produto completo \n" +
-                            "2 - Criar um produto com nome e valor \n" +
+                            "2 - Criar um produto com ID e valor \n" +
                             "3 - Criar um produto com nome, valor e ID \n");
 
                     int subEscolha = leitor.nextInt();
